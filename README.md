@@ -1,6 +1,6 @@
 # WEB-SCARPING
- PARA ESTE PROYTECTO HE USADO SELENIUM PARA LA EXTRACCION DE INFORMACION DEL SUPERMERCADO Y PARA MELI HE USADO REQUEST
- <li>from selenium import webdriver <li>
- <li>import pandas as pd <li>
- <li>from selenium.webdriver.common.by import By <li>
- <li>from selenium.common.exceptions import NoSuchElementException <li>
+ PARA ESTE PROYTECTO DE EXTRACCION DE INFORMACION DE UNA PAG HE USADO SELENIUM PARA LA EXTRACCION DE INFORMACION DEL SUPERMERCADO Y PARA MELI HE USADO REQUEST
+ <li>from selenium import webdriver 
+ <li>import pandas as pd 
+ <li>from selenium.webdriver.common.by import By 
+ <li>from selenium.common.exceptions import NoSuchElementException 
